@@ -1,0 +1,29 @@
+# Large files
+*.pt
+*.pth
+*.ckpt
+*.parquet
+*.zip
+
+# Data directories
+/data/pcam/
+/data/PatchCamelyon/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.ipynb_checkpoints/
+
+# Logs
+*.log
+wandb/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
