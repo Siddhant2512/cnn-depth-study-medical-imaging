@@ -74,6 +74,6 @@ If you find this research interesting or have questions about the implementation
 pip install -r requirements.txt
 
 # Train models
-python train.py --architecture all --seeds 42,43,44,45,46
+python aggarwal_task.py --architecture all --seeds 42,43,44,45,46
 
 
