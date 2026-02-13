@@ -62,7 +62,7 @@ This project investigates the relationship between **network depth**, **represen
 ## 🔗 Connect
 If you find this research interesting or have questions about the implementation, feel free to reach out!
 *   **LinkedIn:** [Siddhant Aggarwal](https://www.linkedin.com/in/siddhant-aggarwal-440213196/)
-*   **Email:** [Your Email Here - Optional]
+*   **Email:** [siddhantaggarwal2001@gmail.com]
 
 ---
 *This project was completed as part of the Deep Neural Networks Master's course at SRH Hochschule Heidelberg.*
